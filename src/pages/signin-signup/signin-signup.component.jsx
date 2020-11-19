@@ -1,6 +1,5 @@
 import './signin-signup.component.scss';
 import SignIn from '../../components/sign-in/sign-in.component';
-import signup from '../../components/sign-up/sign-up.component';
 import SignUp from '../../components/sign-up/sign-up.component';
 
 const SigninSignupPage = () => (
